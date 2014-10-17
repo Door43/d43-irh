@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[irh:home|Door43 (irh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-irh|d43-irh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-irh/archive/master.zip|d43-irh.zip]]
+
+**Recent Changes**
+{{changes>ns = irh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/irh|Ethnologue data]]
+
